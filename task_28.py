@@ -7,3 +7,5 @@ elif b > a and b > c:
     print('2 число самое большое')
 elif c > a and c > b:
     print('3 число самое большое')
+else:
+    print('некоторые из чисел равны')
