@@ -1,0 +1,9 @@
+b = int(input('введите число от 0 до 23'))
+if(b >= 0 and b <=6):
+    print('ночь')
+if(b >=7 and b <=12):
+    print('утро')
+if(b >= 13 and b <= 18):
+    print('день')
+if(b >= 19 and b <= 23):
+    print('вечер')
