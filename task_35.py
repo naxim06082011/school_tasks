@@ -1,3 +1,4 @@
+import random
 n = int(input('введите К-Н-Б(1-2-3)'))
 a = random.randint(1,3)
 if n = 1 and a = 3:
